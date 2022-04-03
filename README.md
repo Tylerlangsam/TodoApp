@@ -1,2 +1,2 @@
 ## TodoApp
-Django / Python / Bootstrap ToDo App
+#Django / Python / Bootstrap ToDo App
